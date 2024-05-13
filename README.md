@@ -2,4 +2,4 @@
 
 This is for my Android Apps
 
-for Privacy Policy -> https://tznapps.github.io/tznapps/GizlilikPolitikasi.html
+for Privacy Policy -> https://tznapps.github.io/GizlilikPolitikasi.html
